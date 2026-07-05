@@ -1,0 +1,23 @@
+{
+  "id": "nsd-2026",
+  "title": "National Students Day Celebration 2026",
+  "category": "Flagship Event",
+  "date": "2026-07-09",
+  "location": "Tripura University Auditorium",
+  "summary": "Foundation Day and National Students Day observed together with a tribute to Swami Vivekananda.",
+  "description": "ABVP Tripura University unit organised a full-day programme marking National Students Day and ABVP's Foundation Day, featuring a tribute to Swami Vivekananda, student speeches on nation-building, and cultural performances by campus units.",
+  "coverImage": "https://res.cloudinary.com/dfyuuze2y/image/upload/v1783233726/example_cover.png",
+  "gallery": [
+    "https://res.cloudinary.com/dfyuuze2y/image/upload/v1783233726/gallery_image1.png",
+    "https://res.cloudinary.com/dfyuuze2y/image/upload/v1783233726/gallery_image2.png",
+    "https://res.cloudinary.com/dfyuuze2y/image/upload/v1783233726/gallery_image3.png"
+  ],
+  "videos": [
+    "https://res.cloudinary.com/demo/video/upload/dog.mp4"
+  ],
+  "highlights": [
+    "500+ students attended",
+    "Blood donation camp",
+    "Cultural showcase"
+  ]
+}
