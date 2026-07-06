@@ -1,0 +1,20 @@
+{
+  "id": "neet-protest",
+  "title": "NEET Protest",
+  "category": "Student Activism",
+  "dateText": "June Protest Action",
+  "sortDate": "2026-06-20",
+  "location": "NTA Headquarters, New Delhi",
+  "summary": "ABVP staged major demonstrations outside NTA headquarters demanding a transparent, time-bound probe into NEET-UG paper leaks.",
+  "description": "Members of the Akhil Bharatiya Vidyarthi Parishad staged a protest outside the National Testing Agency headquarters in New Delhi following the cancellation of the NEET-UG 2026 examination amid allegations of a paper leak and examination irregularities. The protesters demanded a fair and time-bound investigation, strict action against those responsible, greater transparency in national examinations, and stronger accountability to protect the interests of lakhs of medical aspirants. During the demonstration, security personnel stopped protesters from entering the NTA office, and several activists were detained.",
+  "coverImage": "https://res.cloudinary.com/demo/image/upload/sample.jpg",
+  "gallery": [
+    "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+  ],
+  "videos": [],
+  "highlights": [
+    "Protest at NTA Headquarters, New Delhi",
+    "Demanded strict action and transparency",
+    "Protection of medical aspirants' interests"
+  ]
+}
