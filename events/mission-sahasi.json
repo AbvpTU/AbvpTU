@@ -1,0 +1,20 @@
+{
+  "id": "mission-sahasi",
+  "title": "Mission Sahasi",
+  "category": "Self-Defence Training",
+  "dateText": "Empowerment Program",
+  "sortDate": "2026-01-20",
+  "location": "Haryana",
+  "summary": "Providing practical self-defence training and spreading awareness about women's safety among students.",
+  "description": "In Haryana, ABVP has organised Mission Sahasi programmes to provide practical self-defence training and spread awareness about women's safety and empowerment among students. The initiative encourages young women to develop confidence, leadership qualities, and the courage to face adversity while fostering a safer and more responsible campus environment.",
+  "coverImage": "https://res.cloudinary.com/demo/image/upload/sample.jpg",
+  "gallery": [
+    "https://res.cloudinary.com/demo/image/upload/sample.jpg"
+  ],
+  "videos": [],
+  "highlights": [
+    "Practical self-defence training campaigns",
+    "Spread awareness of women's safety",
+    "Encouraging courage and leadership in youth"
+  ]
+}
