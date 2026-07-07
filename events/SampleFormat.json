@@ -1,0 +1,23 @@
+{
+  "id": "SampleFormat",
+  "title": "This is an example title",
+  "category": "Sports, Activity, Seminar, Helpdesk",
+  "dateText": "University Level",
+  "sortDate": "2026-06-25",
+  "location": "Tripura University",
+  "summary": "This is only for example purpose",
+  "description": "This program is organised by Akhil Bharatiya Vidyarthi Parishad Tripura Central University, this code will not be added to the main site.",
+  "coverImage": "https://res.cloudinary.com/dfyuuze2y/image/upload/v1783315270/IMG-20260706-WA0003_b9efnb.jpg",
+  "gallery": [
+    "https://res.cloudinary.com/dfyuuze2y/image/upload/v1783315272/IMG-20260706-WA0006_cvezl6.jpg",
+    "https://res.cloudinary.com/dfyuuze2y/image/upload/v1783315271/IMG-20260706-WA0005_m8g5fd.jpg",
+    "https://res.cloudinary.com/dfyuuze2y/image/upload/v1783315270/IMG-20260706-WA0004_wpemsw.jpg",
+    "https://res.cloudinary.com/dfyuuze2y/image/upload/v1783315270/IMG-20260706-WA0002_dghyo6.jpg"
+  ],
+  "videos": [],
+  "highlights": [
+    "Student Help Desk",
+    "Viral Tag",
+    "Support"
+  ]
+}
